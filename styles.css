@@ -3,4 +3,12 @@ p{
 }
 li{
     list-style: none;
+    margin right: 25px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.lista{
+    display: flex;
 }
