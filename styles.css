@@ -17,3 +17,24 @@ li{
 .lista{
     display: flex;
 }
+
+.titular{
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1{
+    font-size: 60px;
+    margin: 0;
+}
+
+h2{
+    font-size: 25px;
+}
+
+a{
+    font-size: 14px;
+    background: #5cb8ff;
+    text-decoration: none;
+    color: white;
+}
