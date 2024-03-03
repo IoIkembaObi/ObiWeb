@@ -33,11 +33,13 @@ h1{
 
 h2{
     font-size: 25px;
+    margin-bottom: 20px;
 }
 
 a{
     font-size: 14px;
     background: #5cb8ff;
     text-decoration: none;
+    padding: 20px 30px 20px 30px;
     color: white;
 }
